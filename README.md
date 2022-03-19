@@ -1,5 +1,5 @@
 
-# NANDHUTTY-V3
+# DIANA V2
 
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/a5476198bcf35794b7953.jpg" width="200" height="200"/>
