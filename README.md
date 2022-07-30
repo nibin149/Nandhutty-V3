@@ -1,10 +1,12 @@
 <div align="center">
   <img border-radius: 15px src="oie_xZEk8VuagZqv.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Diana" src="https://img.shields.io/badge/Diana-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Chinnutty_v1" src="https://img.shields.io/badge/
+chinnutty_v1-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/nibin149"><img title="Author" src="https://img.shields.io/badge/Author-nibin149/Diana?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/nibin149"><img title="Author" src="https://img.shields.io/badge/Author-nibin149/
+chinnutty_v1?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -24,13 +26,13 @@ IF YOU ARE FACING PROBLEMS WHILE DEPLOYING
 FIRST FORK THIS REPO
 THEN COPY THE LINK BELLOW AND CHANGE THE NAME `nibin149` TO YOUR USER NAME AND OPEN THIS LINK IN CHROME
 
-Copy this link https://heroku.com/deploy?template=https://github.com/nibin149/Diana
+Copy this link https://heroku.com/deploy?template=https://github.com/nibin149/Chinnutty_v1
 </p>
 
   
 ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nibin149/Diana) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nibin149/Chinnutty_v1) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -39,8 +41,8 @@ Copy this link https://heroku.com/deploy?template=https://github.com/nibin149/Di
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/nibin149/Diana
-$ cd Diana
+$ git clone https://github.com/nibin149/Chinnutty_v1
+$ cd Chinnutty_v1
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -48,8 +50,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/nibin149/Diana
-$ cd Diana
+$ git clone https://github.com/nibin149/Chinnutty_v1
+$ cd Chinnutty_v1
 $ npm i
 $ node julie.js
 ```
@@ -76,7 +78,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HaRiE6gtMnnIYqtlGofs77)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nibin149&repo=Diana&theme=nightowl)](https://github.com/nibin149/Diana)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nibin149&repo=Chinnutty_v1&theme=nightowl)](https://github.com/nibin149/Chinnutty_v1)
   </div>
     
 ### ⚠️ Warning! 
@@ -98,7 +100,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![nibin149](https://github.com/nibin149.png?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
 [farhan-dqz](https://github.com/farhan-dqz) | [nibin149](https://github.com/nibin149) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
+Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
 
