@@ -4,7 +4,7 @@
   <img border-radius: 15px src="oie_xZEk8VuagZqv.jpg" width="200" height="200"/>
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href=""><img src="oie_xZEk8VuagZqv.jpg"/> 
   <a href="https://wa.me/918590967139"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
